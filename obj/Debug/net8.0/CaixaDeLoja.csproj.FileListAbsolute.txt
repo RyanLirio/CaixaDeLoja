@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\bin\Debug\net8.0\CaixaDeLoja.exe
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\bin\Debug\net8.0\CaixaDeLoja.deps.json
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\bin\Debug\net8.0\CaixaDeLoja.runtimeconfig.json
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\bin\Debug\net8.0\CaixaDeLoja.dll
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\bin\Debug\net8.0\CaixaDeLoja.pdb
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.AssemblyInfo.cs
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.dll
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\refint\CaixaDeLoja.dll
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.pdb
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.genruntimeconfig.cache
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\ref\CaixaDeLoja.dll
