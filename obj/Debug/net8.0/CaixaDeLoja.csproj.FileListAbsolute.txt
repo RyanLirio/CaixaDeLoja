@@ -12,3 +12,4 @@ C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\refint\CaixaD
 C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.pdb
 C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.genruntimeconfig.cache
 C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\ref\CaixaDeLoja.dll
+C:\Users\RL\desktop\Udemy\exercícios\CaixaDeLoja\obj\Debug\net8.0\CaixaDeLoja.sourcelink.json

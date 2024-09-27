@@ -62,8 +62,19 @@ namespace CaixaDeLoja
             Console.WriteLine("1 - Adicionar mais peças");
             Console.WriteLine("2 - Finalizar a compra");
             Console.WriteLine("0 - Cancelar a compra");
-            int resposta = int.Parse(Console.ReadLine());
-            Adicionar(((int)resposta), ((int)item1), ((int)codigo));
+            
+            int resposta = 0;
+
+            try
+            {
+            resposta = int.Parse(Console.ReadLine());
+            }catch (System.FormatException)
+            {
+                Console.WriteLine("Opção inválida! Você deve digitar os numeros das opções (Reinicie o programa)");
+                Thread.Sleep(1500);
+                Console.WriteLine("");
+            }
+            Adicionar(((int) resposta), ((int)item1), ((int)codigo));
         }
 
         static public void Adicionar(int resposta, int item1, int codigo)
@@ -111,7 +122,7 @@ namespace CaixaDeLoja
             for(int i = 0; i < indiceCod;i++)
             {
                 Console.Write($"Valor do produto {codigos[i]}: ");
-                Console.WriteLine($"{somaDosProdutos[i]}");
+                Console.WriteLine($"R$ {somaDosProdutos[i]}");
                 
             }
         }
